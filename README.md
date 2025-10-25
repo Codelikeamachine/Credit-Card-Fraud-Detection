@@ -1,5 +1,4 @@
-# NeuroNexus
-This is my winter internship project repository in which i did 2 task of my internship.
+# Credit-Card-Fraud-Detection
 
 It is a dataset regarding the Iris flower classification and employing various machine learning models for classification purposes. The provided code involves several steps:
 
